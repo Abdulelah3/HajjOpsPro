@@ -10,7 +10,8 @@
     "lint": "next lint",
     "type-check": "tsc --noEmit",
     "format": "prettier --write .",
-    "check": "npm run type-check && npm run lint"
+    "check": "npm run type-check && npm run lint",
+    "deploy": "git add . && git commit -m \"auto update\" && git push"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
