@@ -1,6 +1,6 @@
 # HajjOpsPro - نظام إدارة الحج
 
-نظام إدارة حج احترافي وشامل من تطوير **Holiday Inn Bakkah Operations**.
+نظام إدارة حج احترافي وشامل من تطوير **Abdulelah Hani Balkhi**.
 
 ## 🌟 الميزات الرئيسية
 
@@ -101,7 +101,7 @@ hajjospro/
 
 ## 🔐 الحقوق
 
-**© 2026 Holiday Inn Bakkah Operations**
+**© 2026 Abdulelah Hani Balkhi**
 جميع الحقوق محفوظة.
 
 ## 📞 الدعم والمساعدة
@@ -110,4 +110,4 @@ hajjospro/
 
 ---
 
-تم التطوير بعناية واحترافية من قبل فريق Holiday Inn Bakkah Operations ✨
+تم التطوير بعناية واحترافية من قبل Abdulelah Hani Balkhi ✨
